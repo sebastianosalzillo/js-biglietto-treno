@@ -19,8 +19,14 @@ sconto maggiore over 65 40%
 ### Esecuzione Logica
 
 calcolo in base ai km da percorrere il prezzo del biglietto
-applico lo sconto in base all'eta
-
+se eta maggiore 18  eminore 65 
+ stampare prezzo biglietto 
+ 
+ altrimenti
+ 
+ applico lo sconto in base all'eta
+  se minorenne applico 20% sconto
+  se over 65 applico 40%sconto
 
 Stampa il prezzo totale del biglietto
 
